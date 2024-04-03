@@ -11,11 +11,11 @@
 
 ### Download Material
 
-- https://owncloud.gwdg.de/index.php/f/2834193478
+- https://owncloud.gwdg.de/index.php/s/1AhDzMo6TtQ8nTo
 - Password: TENOR24Speech
 
 
 ### Upload Material
 
-- https://owncloud.gwdg.de/index.php/f/2834193481
+- https://owncloud.gwdg.de/index.php/s/ui3cGa04QJtp8Tm
 - Password: TENOR24Speech
