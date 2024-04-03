@@ -9,13 +9,13 @@
 - Angela Brennecke (a.brennecke@filmuniversitaet.de)
 
 
-### Workshop Material
+### Download Material
 
-- Download the audio examples at this address:
-  - https://owncloud.gwdg.de/index.php/f/2834193478
-  - Password: TENOR24Speech
+- https://owncloud.gwdg.de/index.php/f/2834193478
+- Password: TENOR24Speech
 
 
-Upload your compositions to this address:
-  - https://owncloud.gwdg.de/index.php/f/2834193481
-  - Password: TENOR24Speech
+### Upload Material
+
+- https://owncloud.gwdg.de/index.php/f/2834193481
+- Password: TENOR24Speech
